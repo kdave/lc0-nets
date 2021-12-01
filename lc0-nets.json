@@ -1,0 +1,248 @@
+[
+	{
+		"name": "t40-256x20",
+		"from": "sergio-v",
+		"desc": "T40 - 256x20\nThese nets are trained on the last ~10M training data of T40.\nThe purpose of this net is to compare to the original T40 network with the same size.",
+		"url": "https://www.comp.nus.edu.sg/~sergio-v/t40/256x20/256x20-t40-1541.pb.gz"
+	},
+	{
+		"name": "t40-384x30",
+		"from": "sergio-v",
+		"desc": "T40 - 384x30\nThese nets are trained on the last ~10M training data of T40.",
+		"url": "https://www.comp.nus.edu.sg/~sergio-v/t40/384x30/384x30-t40-2036.pb.gz"
+	},
+	{
+		"name": "t60-384x30",
+		"from": "sergio-v",
+		"desc": "T60 - 384x30\nThese nets are trained along with current T60 training data with window size of ~6M.",
+		"url": "https://www.comp.nus.edu.sg/~sergio-v/t60/384x30/384x30-t60-4619.pb.gz"
+	},
+	{
+		"name": "t60-384x30-2",
+		"from": "sergio-v",
+		"desc": "T60 - 384x30 - 2\nThese nets are trained along with current T60 training data with window size of ~6M.\nHigher LR than 384x30 to make sure training keeps up with T60.",
+		"url": "https://www.comp.nus.edu.sg/~sergio-v/t60/384x30-t60-2/384x30-t60-2-3710.pb.gz"
+	},
+	{
+		"name": "id-9149",
+		"from": "dkappe",
+		"desc": "",
+		"url": "https://github.com/dkappe/leela-chess-weights/files/4773441/weights_9149.pb.gz"
+	},
+	{
+		"name": "id-598",
+		"from": "dkappe",
+		"desc": "",
+		"url": "https://github.com/dkappe/leela-chess-weights/files/4773390/weights_598.pb.gz"
+	},
+	{
+		"name": "id-394",
+		"from": "dkappe",
+		"desc": "",
+		"url": "https://github.com/dkappe/leela-chess-weights/files/4773340/394.pb.gz"
+	},
+	{
+		"name": "id-125",
+		"from": "dkappe",
+		"desc": "",
+		"url": "https://github.com/dkappe/leela-chess-weights/files/4773347/125.pb.gz"
+	},
+	{
+		"name": "tinygyal-8",
+		"from": "dkappe",
+		"desc": "",
+		"url": "https://github.com/dkappe/leela-chess-weights/files/4432261/tinygyal-8.pb.gz"
+	},
+	{
+		"name": "mediumender",
+		"from": "dkappe",
+		"desc": "",
+		"url": "https://github.com/dkappe/leela-chess-weights/releases/download/MediumEnder/me.pb.gz"
+	},
+	{
+		"name": "littleender",
+		"from": "dkappe",
+		"desc": "",
+		"url": "https://github.com/dkappe/leela-chess-weights/releases/download/LittleEnder/le.pb.gz"
+	},
+	{
+		"name": "32930-112x9-se",
+		"from": "dkappe",
+		"desc": "",
+		"url": "https://github.com/dkappe/leela-chess-weights/files/3000853/32930-112x9-se.pb.gz"
+	},
+	{
+		"name": "meangirl-8",
+		"from": "dkappe",
+		"desc": "",
+		"url": "https://github.com/dkappe/leela-chess-weights/releases/download/mean-girl-8/meangirl-8.pb.gz"
+	},
+	{
+		"name": "meangirl-7",
+		"from": "dkappe",
+		"desc": "",
+		"url": "https://github.com/dkappe/leela-chess-weights/files/3506691/meangirl-7.pb.gz"
+	},
+	{
+		"name": "goodgyal-7",
+		"from": "dkappe",
+		"desc": "",
+		"url": "https://github.com/dkappe/leela-chess-weights/files/3528155/goodgyal-7.pb.gz"
+	},
+	{
+		"name": "goodgyal-6",
+		"from": "dkappe",
+		"desc": "",
+		"url": "https://github.com/dkappe/leela-chess-weights/files/3488438/goodgyal-6.pb.gz"
+	},
+	{
+		"name": "goodgyal-5",
+		"from": "dkappe",
+		"desc": "",
+		"url": "https://github.com/dkappe/leela-chess-weights/files/3422292/goodgyal-5.pb.gz"
+	},
+	{
+		"name": "evilgyal-6",
+		"from": "dkappe",
+		"desc": "",
+		"url": "https://github.com/dkappe/leela-chess-weights/files/3468575/evilgyal-6.pb.gz"
+	},
+	{
+		"name": "ender-112x9-se",
+		"from": "dkappe",
+		"desc": "",
+		"url": "https://github.com/dkappe/leela-chess-weights/files/3000856/ender-112x9-se.pb.gz"
+	},
+	{
+		"name": "ccrl-128x10",
+		"from": "dkappe",
+		"desc": "",
+		"url": "https://github.com/dkappe/leela-chess-weights/files/3539451/ccrl-128x10.pb.gz"
+	},
+	{
+		"name": "badgyal-128x10",
+		"from": "dkappe",
+		"desc": "",
+		"url": "https://github.com/dkappe/leela-chess-weights/files/3363127/badgyal-128x10.pb.gz"
+	},
+	{
+		"name": "badgyal-8",
+		"from": "dkappe",
+		"desc": "",
+		"url": "https://github.com/dkappe/leela-chess-weights/files/3799966/badgyal-8.pb.gz"
+	},
+	{
+		"name": "badgyal-7",
+		"from": "dkappe",
+		"desc": "",
+		"url": "https://github.com/dkappe/leela-chess-weights/files/3512272/badgyal-7.pb.gz"
+	},
+	{
+		"name": "badgyal-6",
+		"from": "dkappe",
+		"desc": "",
+		"url": "https://github.com/dkappe/leela-chess-weights/files/3490261/badgyal-6.pb.gz"
+	},
+	{
+		"name": "badgyal-5",
+		"from": "dkappe",
+		"desc": "",
+		"url": "https://github.com/dkappe/leela-chess-weights/files/3417759/badgyal-5.pb.gz"
+	},
+	{
+		"name": "badgyal-4",
+		"from": "dkappe",
+		"desc": "",
+		"url": "https://github.com/dkappe/leela-chess-weights/files/3383208/badgyal-4.pb.gz"
+	},
+	{
+		"name": "badgyal-4a",
+		"from": "dkappe",
+		"desc": "",
+		"url": "https://github.com/dkappe/leela-chess-weights/files/3390409/badgyal-4a.pb.gz"
+	},
+	{
+		"name": "badgyal-3",
+		"from": "dkappe",
+		"desc": "",
+		"url": "https://github.com/dkappe/leela-chess-weights/files/3366818/badgyal-3.pb.gz"
+	},
+	{
+		"name": "badgyal-2",
+		"from": "dkappe",
+		"desc": "",
+		"url": "https://github.com/dkappe/leela-chess-weights/files/3356657/bad-gyal-2.pb.gz"
+	},
+	{
+		"name": "badgyal-1",
+		"from": "dkappe",
+		"desc": "",
+		"url": "https://github.com/dkappe/leela-chess-weights/files/3352339/bad-gyal-1.pb.gz"
+	},
+	{
+		"name": "maia1",
+		"from": "csslab",
+		"desc": "maia 1100",
+		"url": "https://github.com/CSSLab/maia-chess/releases/download/v1.0/maia-1100.pb.gz"
+	},
+	{
+		"name": "maia2",
+		"from": "csslab",
+		"desc": "maia 1200",
+		"url": "https://github.com/CSSLab/maia-chess/releases/download/v1.0/maia-1200.pb.gz"
+	},
+	{
+		"name": "maia3",
+		"from": "csslab",
+		"desc": "maia 1300",
+		"url": "https://github.com/CSSLab/maia-chess/releases/download/v1.0/maia-1300.pb.gz"
+	},
+	{
+		"name": "maia4",
+		"from": "csslab",
+		"desc": "maia 1400",
+		"url": "https://github.com/CSSLab/maia-chess/releases/download/v1.0/maia-1400.pb.gz"
+	},
+	{
+		"name": "maia5",
+		"from": "csslab",
+		"desc": "maia 1500",
+		"url": "https://github.com/CSSLab/maia-chess/releases/download/v1.0/maia-1500.pb.gz"
+	},
+	{
+		"name": "maia6",
+		"from": "csslab",
+		"desc": "maia 1600",
+		"url": "https://github.com/CSSLab/maia-chess/releases/download/v1.0/maia-1600.pb.gz"
+	},
+	{
+		"name": "maia7",
+		"from": "csslab",
+		"desc": "maia 1700",
+		"url": "https://github.com/CSSLab/maia-chess/releases/download/v1.0/maia-1700.pb.gz"
+	},
+	{
+		"name": "maia8",
+		"from": "csslab",
+		"desc": "maia 1800",
+		"url": "https://github.com/CSSLab/maia-chess/releases/download/v1.0/maia-1800.pb.gz"
+	},
+	{
+		"name": "maia9",
+		"from": "csslab",
+		"desc": "maia 1900",
+		"url": "https://github.com/CSSLab/maia-chess/releases/download/v1.0/maia-1900.pb.gz"
+	},
+	{
+		"name": "1305",
+		"from": "lcnet",
+		"desc": "lc0 training net",
+		"url": "lcnet-192x15-2021_1128_1305_19_691.pb.gz"
+	},
+	{
+		"name": "1337",
+		"from": "lcnet",
+		"desc": "lc0 training net",
+		"url": "lcnet-192x15-2021_1128_1337_09_383.pb.gz"
+	}
+]
