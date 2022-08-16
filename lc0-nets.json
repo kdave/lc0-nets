@@ -234,15 +234,23 @@
 		"url": "https://github.com/CSSLab/maia-chess/releases/download/v1.0/maia-1900.pb.gz"
 	},
 	{
-		"name": "1305",
+		"name": "small",
 		"from": "lcnet",
-		"desc": "lc0 training net",
-		"url": "lcnet-192x15-2021_1128_1305_19_691.pb.gz"
+		"desc": "lc0 run2 small net",
+		"url": "small-192x15-2022_0107_2141_18_403.pb.gz"
 	},
 	{
-		"name": "1337",
+		"name": "mid",
 		"from": "lcnet",
-		"desc": "lc0 training net",
-		"url": "lcnet-192x15-2021_1128_1337_09_383.pb.gz"
+		"desc": "lc0 run1 mid net (803825)",
+		"url1": "mid-384x30-2022_0108_1612_34_294.pb.gz",
+		"url": "mid-512x15-2022_0816_1805_56_830.pb.gz"
+	},
+	{
+		"name": "big",
+		"from": "lcnet",
+		"desc": "lc0 run3 big net (784603)",
+		"url1": "big-512x40-t78-swa-352500.pb.gz",
+		"url": "big-512x20-ap-mish-20b-swa-3738750.pb.gz"
 	}
 ]

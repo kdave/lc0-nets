@@ -15,17 +15,29 @@ The first command will download all configured nets from the `lc0-nets.json` fil
 
 * all the `maia-bot` networks, estimated Elo level 1100-1900, note it should be limited to depth 1 (settings in GUI is `nodes` and time control does not matter), you can play against a bot using these nets on lichess too
 * big networks from 'dkappe', `goodgyal`, `badgyal`, `meangyal`
-* a recent best official `lc0` network, this changes all the time so you may need to update it yourself
+* a recent `lc0` network, this changes all the time so you may need to update it yourself
+  * big - best from run3 (T80)
+  * mid - best from run1 (T78)
+  * small - best from run2 (if active)
 
 ## Hardware
 
 Best hardware for neural network calculations is GPU or other specialized hardware, but some of the networks are still reasonably usable on CPU. Namely the 'maia' nets don't need deep search.
 
+## GUI
+
+* cutechess
+* nibbler
+* chessx
+* scid
+* PyChess
+
 ## Sources
 
 * dkappe
-  * https://github.com/dkappe/leela-chess-weights	
+  * https://github.com/dkappe/leela-chess-weights
   * https://github.com/dkappe/leela-chess-weights/wiki/Bad-Gyal
 * sergio v https://www.comp.nus.edu.sg/~sergio-v/t60/384x30/
 * more lc0 networks https://lczero.org/dev/wiki/best-nets-for-lc0/
 * maia nets https://github.com/CSSLab/maia-chess
+* lc0 training site https://training.lczero.org/
