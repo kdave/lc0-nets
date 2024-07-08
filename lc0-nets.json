@@ -249,8 +249,8 @@
 	{
 		"name": "big",
 		"from": "lcnet",
-		"desc": "lc0 run3 big net (784603)",
+		"desc": "lc0 run1 big net (820408)",
 		"url1": "big-512x40-t78-swa-352500.pb.gz",
-		"url": "big-512x20-ap-mish-20b-swa-3738750.pb.gz"
+		"url": "big-768x15x24h-t80-2024_0709_0316_42_420.pb.gz"
 	}
 ]
